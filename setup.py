@@ -14,6 +14,7 @@ setuptools.setup(
     url="https://bitbucket.org/byjg/terraobject",
     packages=setuptools.find_packages(exclude=['__pycache__']),
     package_dir={'terraobject': 'terraobject'},
+    license="MIT",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
