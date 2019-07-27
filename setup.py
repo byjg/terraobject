@@ -11,7 +11,7 @@ setuptools.setup(
     description="Common Terraobject package",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://bitbucket.org/byjg/terraobject",
+    url="https://github.com/byjg/terraobject",
     packages=setuptools.find_packages(exclude=['__pycache__']),
     package_dir={'terraobject': 'terraobject'},
     license="MIT",
