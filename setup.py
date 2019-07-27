@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="Joao Gilberto Magalhaes",
     author_email="joao@byjg.com.br",
-    description="Common Terraobject package",
+    description="Terraobject package to share variables between terrascript components",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/byjg/terraobject",

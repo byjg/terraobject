@@ -1,1 +1,1 @@
--e git://github.com/byjg/python-terrascript.git#egg=terrascript
+-e git://github.com/mjuenema/python-terrascript.git#egg=terrascript
