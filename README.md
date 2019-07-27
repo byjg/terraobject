@@ -35,7 +35,7 @@ print(o.terrascript.dump())
 # Add to your project
 
 ```bash
-pip install terraobject=0.0.1
+pip install terraobject==0.0.1
 ```
 
 # More information about terrascript:
