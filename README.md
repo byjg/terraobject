@@ -32,6 +32,12 @@ o.shared['persistent_volume'].name
 print(o.terrascript.dump())
 ```
 
+# Add to your project
+
+```bash
+pip install terraobject=0.0.1
+```
+
 # More information about terrascript:
 https://github.com/mjuenema/python-terrascript
 
